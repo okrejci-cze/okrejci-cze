@@ -1,6 +1,5 @@
-# okrejci-cze
-profile custom
-# Hi 👋, I'm okejci
+
+# I'm okejci
 
 ### vibecode
 
